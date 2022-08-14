@@ -1,0 +1,56 @@
+
+section {
+
+width: 50%;
+ 
+}
+
+
+.clients_left img {
+    width: 35rem; 
+}
+
+nav h2 {
+    margin: 3rem 0 0 0;
+    
+    font-size: 2rem;
+    color: #356EAD;
+    letter-spacing: 4%;
+    line-height: 100%;
+}
+
+nav p {
+    width: 80%;
+    margin: 2rem 0 4rem 0;
+    color: #356EAD;
+    line-height: 150%;
+    opacity: 0.6;
+}
+
+
+aside {
+    width: 50%;
+    align-items: center;
+    padding: 3rem;
+  box-shadow: 0 4px 1rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.5rem;
+}
+aside .btn {
+    padding: 0.75rem 18rem;
+    border:1px solid #356EAD;
+    border-radius: 0.4rem;
+    margin: 2rem 2rem;
+}
+
+.form_container {
+    padding: 5rem;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
