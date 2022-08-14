@@ -56,7 +56,7 @@ nav {
     font-weight: bold;
 }
 
-.logo {
+.logo img {
     width: 4rem;
 }
 
@@ -68,6 +68,7 @@ header {
     display: flex;
     padding: 1.5rem 2rem 2rem 12rem;
     align-items: center;
+    background: linear-gradient(rgba(152,195,232,0),rgba(152,195,232,05));
 }
 
 header .right img {
@@ -89,3 +90,41 @@ header p {
     opacity: 0.6;
 }
 /* header tugadi */
+
+/* main boshlandi */
+
+.about {
+    display: flex;
+    padding: 12rem 18rem 15rem 15rem;
+    justify-content: space-between;
+
+}
+
+.about_left {
+    width: 50%;
+}
+
+.about_right {
+    width: 40%;
+}
+
+.about_left .about_item {
+    width: 60%;
+}
+
+.about_left .title {
+    width: 50%;
+    margin-bottom: 11rem;
+}
+
+.about_item {
+  padding: 3rem;
+  box-shadow: 0 4px 1rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.5rem;
+}
+
+.about_right .about_item:first-child {
+  margin-bottom: 6rem;
+}
+
+/* main tugadi */
