@@ -61,3 +61,31 @@ nav {
 }
 
 /* Navbar tugadi */
+
+/* Header boshlandi */
+
+header {
+    display: flex;
+    padding: 1.5rem 2rem 2rem 12rem;
+    align-items: center;
+}
+
+header .right img {
+    width: 35rem;
+}
+
+header h1 {
+    font-size: 3rem;
+    color: #356EAD;
+    letter-spacing: 4%;
+    line-height: 120%;
+}
+
+header p {
+    width: 80%;
+    margin: 2rem 0 4rem 0;
+    color: #356EAD;
+    line-height: 150%;
+    opacity: 0.6;
+}
+/* header tugadi */
