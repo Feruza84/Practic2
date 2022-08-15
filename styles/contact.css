@@ -1,10 +1,7 @@
-
+/* nav boshlandi */
 section {
-
 width: 50%;
- 
 }
-
 
 .clients_left img {
     width: 35rem; 
@@ -34,6 +31,7 @@ aside {
   box-shadow: 0 4px 2rem rgba(0, 0, 0, 0.25);
   border-radius: 0.5rem;
 }
+
 aside .btn {
     margin-top: 2rem;
     padding: 1rem 17.5rem;
@@ -50,5 +48,6 @@ input, textarea {
     padding: 2rem;
     border-radius: 1rem;
     margin: 0.5rem 0 2rem 0;
-
 }
+
+/* nav tugadi */
